@@ -1,0 +1,26 @@
+{
+  "name": "fitnesstracker",
+  "version": "1.0.0",
+  "description": "commandline fitness tracking tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-of-croton/fitnessTracker.git"
+  },
+  "keywords": [
+    "fitness"
+  ],
+  "author": "george-of-croton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-of-croton/fitnessTracker/issues"
+  },
+  "homepage": "https://github.com/george-of-croton/fitnessTracker#readme",
+  "dependencies": {
+    "knex": "^0.12.6",
+    "sqlite3": "^3.1.8"
+  }
+}
